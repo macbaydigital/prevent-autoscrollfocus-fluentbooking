@@ -1,3 +1,10 @@
+/**
+ * FluentBooking Autofocus Fix
+ * License: MIT (https://opensource.org/licenses/MIT)
+ * Author: Sascha Liem
+ * Date: Aug 8th 2026
+ */
+
 (function () {
   'use strict';
 
